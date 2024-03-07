@@ -1,0 +1,30 @@
+{
+  "name": "my-strong-password-generator",
+  "version": "1.0.0",
+  "description": "A npm package that offers a robust password generator in JavaScript, ensuring strong and secure passwords with customizable length and character sets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankanand2701/Radom-Password-Generator.git"
+  },
+  "keywords": [
+    "Password Generator",
+    "Strong Password",
+    "Password",
+    "Generator",
+    "Unique",
+    "secure",
+    "passwords",
+    "security",
+    "utility"
+  ],
+  "author": "Mayank Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankanand2701/Radom-Password-Generator/issues"
+  },
+  "homepage": "https://github.com/mayankanand2701/Radom-Password-Generator#readme"
+}
